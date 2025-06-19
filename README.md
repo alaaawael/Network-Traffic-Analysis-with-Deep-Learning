@@ -1,5 +1,4 @@
 # Network-Traffic-Analysis-with-Deep-Learning
-Network Traffic Analysis with Deep Learning
 This project implements a network traffic analysis system using deep learning to classify network packets as normal or malicious. It leverages the KDD Cup dataset for training and uses Scapy for real-time packet sniffing.
 Features
 
@@ -18,7 +17,7 @@ Pandas
 NumPy
 Matplotlib
 Scikit-learn
-Ensure all dependencies are installed via pip install -r requirements.txt (create a requirements.txt file with the listed libraries).
+Ensure all dependencies are installed via pip install -r requirements.txt.
 
 Installation
 
