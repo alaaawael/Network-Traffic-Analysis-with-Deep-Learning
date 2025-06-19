@@ -1,0 +1,225 @@
+2025-05-21 12:43:45.650526 | Ether / IP / TCP 192.168.1.5:49469 > 20.199.120.151:https PA / Raw | Predicted: normal
+2025-05-21 12:43:45.948785 | Ether / IP / TCP 192.168.1.5:49469 > 20.199.120.151:https PA / Raw | Predicted: normal
+2025-05-21 12:43:46.260866 | Ether / IP / TCP 192.168.1.5:49469 > 20.199.120.151:https PA / Raw | Predicted: normal
+2025-05-21 12:43:46.372173 | Ether / IP / TCP 20.199.120.151:https > 192.168.1.5:49469 PA / Raw | Predicted: normal
+2025-05-21 12:43:46.442217 | Ether / IP / TCP 3.33.221.48:http > 192.168.1.5:57527 PA / Raw | Predicted: normal
+2025-05-21 12:43:46.509519 | Ether / IP / TCP 20.199.120.151:https > 192.168.1.5:49469 A | Predicted: normal
+2025-05-21 12:43:46.577365 | Ether / IP / TCP 3.33.221.48:http > 192.168.1.5:57527 PA / Raw | Predicted: normal
+2025-05-21 12:43:46.664389 | Ether / IP / TCP 20.199.120.151:https > 192.168.1.5:49469 A | Predicted: normal
+2025-05-21 12:43:46.743016 | Ether / IP / TCP 192.168.1.5:57527 > 3.33.221.48:http A | Predicted: normal
+2025-05-21 12:43:46.809731 | Ether / IP / TCP 192.168.1.5:57527 > 3.33.221.48:http PA / Raw | Predicted: normal
+2025-05-21 12:43:46.876245 | Ether / IP / TCP 192.168.1.5:49469 > 20.199.120.151:https A | Predicted: normal
+2025-05-21 12:43:46.943072 | Ether / IP / TCP 3.33.221.48:http > 192.168.1.5:57527 A / Padding | Predicted: normal
+2025-05-21 12:43:48.797438 | Ether / IP / UDP 192.168.1.5:49664 > 142.251.37.36:https / Raw | Predicted: normal
+2025-05-21 12:43:48.881767 | Ether / IP / UDP 192.168.1.5:49664 > 142.251.37.36:https / Raw | Predicted: normal
+2025-05-21 12:43:48.940987 | Ether / IP / UDP 192.168.1.5:49664 > 142.251.37.36:https / Raw | Predicted: normal
+2025-05-21 12:43:49.007215 | Ether / IP / UDP 192.168.1.5:49664 > 142.251.37.36:https / Raw | Predicted: normal
+2025-05-21 12:43:49.074227 | Ether / IP / UDP 142.251.37.36:https > 192.168.1.5:49664 / Raw | Predicted: normal
+2025-05-21 12:43:49.143134 | Ether / IP / UDP 142.251.37.36:https > 192.168.1.5:49664 / Raw | Predicted: normal
+2025-05-21 12:43:49.222483 | Ether / IP / UDP 142.251.37.36:https > 192.168.1.5:49664 / Raw | Predicted: normal
+2025-05-21 12:43:49.289961 | Ether / IP / UDP 142.251.37.36:https > 192.168.1.5:49664 / Raw | Predicted: normal
+2025-05-21 12:43:49.357707 | Ether / IP / UDP 142.251.37.36:https > 192.168.1.5:49664 / Raw | Predicted: normal
+2025-05-21 12:43:49.427480 | Ether / IP / UDP 142.251.37.36:https > 192.168.1.5:49664 / Raw | Predicted: normal
+2025-05-21 12:43:49.490788 | Ether / IP / UDP 142.251.37.36:https > 192.168.1.5:49664 / Raw | Predicted: normal
+2025-05-21 12:43:49.571520 | Ether / IP / UDP 142.251.37.36:https > 192.168.1.5:49664 / Raw | Predicted: normal
+2025-05-21 12:43:49.633951 | Ether / IP / UDP 192.168.1.5:49664 > 142.251.37.36:https / Raw | Predicted: normal
+2025-05-21 12:43:49.711069 | Ether / IP / UDP 192.168.1.5:49664 > 142.251.37.36:https / Raw | Predicted: normal
+2025-05-21 12:43:49.776558 | Ether / IP / UDP 142.251.37.36:https > 192.168.1.5:49664 / Raw | Predicted: normal
+2025-05-21 12:43:49.842548 | Ether / IP / UDP 192.168.1.5:49664 > 142.251.37.36:https / Raw | Predicted: normal
+2025-05-21 12:43:49.918034 | Ether / IP / UDP 142.251.37.36:https > 192.168.1.5:49664 / Raw | Predicted: normal
+2025-05-21 12:43:49.975555 | Ether / IP / UDP 192.168.1.5:49664 > 142.251.37.36:https / Raw | Predicted: normal
+2025-05-21 12:43:50.056524 | Ether / IP / TCP 192.168.1.5:55494 > 52.112.100.30:https PA / Raw | Predicted: normal
+2025-05-21 12:43:50.121654 | Ether / IP / TCP 192.168.1.5:57392 > 162.159.130.234:https PA / Raw | Predicted: normal
+2025-05-21 12:43:50.189485 | Ether / ARP who has 192.168.1.4 says 192.168.1.1 / Padding | Predicted: normal
+2025-05-21 12:43:50.257391 | Ether / ARP who has 192.168.1.2 says 192.168.1.1 / Padding | Predicted: normal
+2025-05-21 12:43:50.322930 | Ether / ARP who has 192.168.1.2 says 192.168.1.1 / Padding | Predicted: normal
+2025-05-21 12:43:50.391343 | Ether / IP / TCP 52.112.100.30:https > 192.168.1.5:55494 PA / Raw | Predicted: normal
+2025-05-21 12:43:50.472937 | Ether / IP / TCP 162.159.130.234:https > 192.168.1.5:57392 A / Padding | Predicted: normal
+2025-05-21 12:43:50.523514 | Ether / IP / TCP 192.168.1.5:55494 > 52.112.100.30:https A | Predicted: normal
+2025-05-21 12:43:50.607101 | Ether / IP / TCP 162.159.130.234:https > 192.168.1.5:57392 PA / Raw | Predicted: normal
+2025-05-21 12:43:50.672902 | Ether / IP / TCP 192.168.1.5:57392 > 162.159.130.234:https A | Predicted: normal
+2025-05-21 12:43:50.739161 | Ether / IP / TCP 192.168.1.5:55501 > 52.112.100.30:https PA / Raw | Predicted: normal
+2025-05-21 12:43:50.804947 | Ether / IP / TCP 52.112.100.30:https > 192.168.1.5:55501 PA / Raw | Predicted: normal
+2025-05-21 12:43:50.872775 | Ether / IP / TCP 192.168.1.5:55501 > 52.112.100.30:https A | Predicted: normal
+2025-05-21 12:43:53.824638 | Ether / ARP who has 192.168.1.5 says 192.168.1.1 / Padding | Predicted: normal
+2025-05-21 12:43:53.925001 | Ether / ARP is at 7c:70:db:61:a6:a7 says 192.168.1.5 | Predicted: normal
+2025-05-21 12:43:55.854355 | Ether / IP / TCP 192.168.1.5:58399 > 52.123.129.14:https S | Predicted: normal
+2025-05-21 12:43:55.918039 | Ether / IP / TCP 52.123.129.14:https > 192.168.1.5:58399 SA | Predicted: normal
+2025-05-21 12:43:55.985378 | Ether / IP / TCP 192.168.1.5:58399 > 52.123.129.14:https A | Predicted: normal
+2025-05-21 12:43:56.067982 | Ether / IP / TCP 192.168.1.5:58399 > 52.123.129.14:https PA / Raw | Predicted: normal
+2025-05-21 12:43:56.135406 | Ether / IP / TCP 52.123.129.14:https > 192.168.1.5:58399 A / Padding | Predicted: normal
+2025-05-21 12:43:56.201662 | Ether / IP / TCP 52.123.129.14:https > 192.168.1.5:58399 PA / Raw | Predicted: normal
+2025-05-21 12:43:56.268724 | Ether / IP / TCP 192.168.1.5:58399 > 52.123.129.14:https A | Predicted: normal
+2025-05-21 12:43:56.334696 | Ether / IP / TCP 192.168.1.5:58399 > 52.123.129.14:https PA / Raw | Predicted: normal
+2025-05-21 12:43:56.401550 | Ether / IP / TCP 52.123.129.14:https > 192.168.1.5:58399 A / Padding | Predicted: normal
+2025-05-21 12:43:56.484430 | Ether / IP / TCP 52.123.129.14:https > 192.168.1.5:58399 PA / Raw | Predicted: normal
+2025-05-21 12:43:56.550750 | Ether / IP / TCP 192.168.1.5:58399 > 52.123.129.14:https A | Predicted: normal
+2025-05-21 12:43:56.619045 | Ether / IP / TCP 192.168.1.5:58399 > 52.123.129.14:https PA / Raw | Predicted: normal
+2025-05-21 12:43:56.684142 | Ether / IP / TCP 192.168.1.5:58399 > 52.123.129.14:https PA / Raw | Predicted: normal
+2025-05-21 12:43:56.753297 | Ether / IP / TCP 52.123.129.14:https > 192.168.1.5:58399 A / Padding | Predicted: normal
+2025-05-21 12:43:56.819346 | Ether / IP / TCP 52.123.129.14:https > 192.168.1.5:58399 A / Padding | Predicted: normal
+2025-05-21 12:43:56.884059 | Ether / IP / TCP 52.123.129.14:https > 192.168.1.5:58399 PA / Raw | Predicted: normal
+2025-05-21 12:43:56.970975 | Ether / IP / TCP 192.168.1.5:58399 > 52.123.129.14:https A | Predicted: normal
+2025-05-21 12:43:57.033519 | Ether / IP / TCP 192.168.1.5:57573 > 52.123.200.36:https PA / Raw | Predicted: normal
+2025-05-21 12:43:57.100123 | Ether / IP / TCP 52.123.200.36:https > 192.168.1.5:57573 PA / Raw | Predicted: normal
+2025-05-21 12:43:57.166878 | Ether / IP / TCP 192.168.1.5:57573 > 52.123.200.36:https A | Predicted: normal
+2025-05-21 12:43:57.233939 | Ether / IP / TCP 192.168.1.5:58400 > 192.168.1.1:domain S | Predicted: normal
+2025-05-21 12:43:57.302831 | Ether / IP / TCP 192.168.1.5:58401 > 192.168.1.1:domain S | Predicted: normal
+2025-05-21 12:43:57.368356 | Ether / IP / TCP 192.168.1.1:domain > 192.168.1.5:58400 SA | Predicted: normal
+2025-05-21 12:43:57.435850 | Ether / IP / TCP 192.168.1.1:domain > 192.168.1.5:58401 SA | Predicted: normal
+2025-05-21 12:43:57.502165 | Ether / IP / TCP 192.168.1.5:58400 > 192.168.1.1:domain A | Predicted: normal
+2025-05-21 12:43:57.566452 | Ether / IP / TCP 192.168.1.5:58401 > 192.168.1.1:domain A | Predicted: normal
+2025-05-21 12:43:57.633038 | Ether / IP / TCP 192.168.1.5:58401 > 192.168.1.1:domain PA / Raw | Predicted: normal
+2025-05-21 12:43:57.700048 | Ether / IP / TCP 192.168.1.5:58401 > 192.168.1.1:domain PA / Raw | Predicted: normal
+2025-05-21 12:43:57.769271 | Ether / IP / TCP 192.168.1.5:58400 > 192.168.1.1:domain PA / Raw | Predicted: normal
+2025-05-21 12:43:57.833106 | Ether / IP / TCP 192.168.1.5:58400 > 192.168.1.1:domain PA / Raw | Predicted: normal
+2025-05-21 12:43:57.900047 | Ether / IP / TCP 192.168.1.1:domain > 192.168.1.5:58401 A / Padding | Predicted: normal
+2025-05-21 12:43:57.984122 | Ether / IP / TCP 192.168.1.1:domain > 192.168.1.5:58401 A / Padding | Predicted: normal
+2025-05-21 12:43:58.033410 | Ether / IP / TCP 192.168.1.1:domain > 192.168.1.5:58400 A / Padding | Predicted: normal
+2025-05-21 12:43:58.115799 | Ether / IP / TCP 192.168.1.1:domain > 192.168.1.5:58400 A / Padding | Predicted: normal
+2025-05-21 12:43:58.182648 | Ether / IP / TCP / DNS Ans b'clients.l.google.com.' | Predicted: normal
+2025-05-21 12:43:58.254670 | Ether / IP / TCP 192.168.1.1:domain > 192.168.1.5:58400 FA / Padding | Predicted: normal
+2025-05-21 12:43:58.322447 | Ether / IP / TCP 192.168.1.5:58400 > 192.168.1.1:domain A | Predicted: normal
+2025-05-21 12:43:58.382881 | Ether / IP / TCP 192.168.1.5:58400 > 192.168.1.1:domain FA | Predicted: normal
+2025-05-21 12:43:58.467751 | Ether / IP / TCP 192.168.1.1:domain > 192.168.1.5:58400 A / Padding | Predicted: normal
+2025-05-21 12:43:58.532779 | Ether / IP / TCP / DNS Ans b'clients.l.google.com.' | Predicted: normal
+2025-05-21 12:43:58.600535 | Ether / IP / TCP 192.168.1.1:domain > 192.168.1.5:58401 FA / Padding | Predicted: normal
+2025-05-21 12:43:58.665968 | Ether / IP / TCP 192.168.1.5:58401 > 192.168.1.1:domain A | Predicted: normal
+2025-05-21 12:43:58.732998 | Ether / IP / TCP 192.168.1.5:58401 > 192.168.1.1:domain FA | Predicted: normal
+2025-05-21 12:43:58.799396 | Ether / IP / UDP 192.168.1.5:51995 > 142.250.200.238:https / Raw | Predicted: normal
+2025-05-21 12:43:58.866594 | Ether / IP / UDP 192.168.1.5:51995 > 142.250.200.238:https / Raw | Predicted: normal
+2025-05-21 12:43:58.950125 | Ether / IP / UDP 192.168.1.5:51995 > 142.250.200.238:https / Raw | Predicted: normal
+2025-05-21 12:43:59.032434 | Ether / IP / UDP 192.168.1.5:51995 > 142.250.200.238:https / Raw | Predicted: normal
+2025-05-21 12:43:59.106148 | Ether / IP / UDP 192.168.1.5:51995 > 142.250.200.238:https / Raw | Predicted: normal
+2025-05-21 12:43:59.180753 | Ether / IP / UDP 192.168.1.5:51995 > 142.250.200.238:https / Raw | Predicted: normal
+2025-05-21 12:43:59.232941 | Ether / IP / TCP 192.168.1.1:domain > 192.168.1.5:58401 A / Padding | Predicted: normal
+2025-05-21 12:43:59.315255 | Ether / IP / UDP 142.250.200.238:https > 192.168.1.5:51995 / Raw | Predicted: normal
+2025-05-21 12:43:59.381916 | Ether / IP / UDP 142.250.200.238:https > 192.168.1.5:51995 / Raw | Predicted: normal
+2025-05-21 12:43:59.464600 | Ether / IP / UDP 142.250.200.238:https > 192.168.1.5:51995 / Raw | Predicted: normal
+2025-05-21 12:43:59.532505 | Ether / IP / UDP 142.250.200.238:https > 192.168.1.5:51995 / Raw | Predicted: normal
+2025-05-21 12:43:59.598445 | Ether / IP / UDP 142.250.200.238:https > 192.168.1.5:51995 / Raw | Predicted: normal
+2025-05-21 12:43:59.682352 | Ether / IP / UDP 142.250.200.238:https > 192.168.1.5:51995 / Raw | Predicted: normal
+2025-05-21 12:43:59.748598 | Ether / IP / UDP 142.250.200.238:https > 192.168.1.5:51995 / Raw | Predicted: normal
+2025-05-21 12:43:59.815512 | Ether / IP / UDP 192.168.1.5:51995 > 142.250.200.238:https / Raw | Predicted: normal
+2025-05-21 12:43:59.882257 | Ether / IP / UDP 192.168.1.5:51995 > 142.250.200.238:https / Raw | Predicted: normal
+2025-05-21 12:43:59.958705 | Ether / IP / UDP 142.250.200.238:https > 192.168.1.5:51995 / Raw | Predicted: normal
+2025-05-21 12:44:00.034241 | Ether / IP / UDP 192.168.1.5:51995 > 142.250.200.238:https / Raw | Predicted: normal
+2025-05-21 12:44:00.114684 | Ether / IP / UDP 142.250.200.238:https > 192.168.1.5:51995 / Raw | Predicted: normal
+2025-05-21 12:44:00.181315 | Ether / IP / UDP 192.168.1.5:51995 > 142.250.200.238:https / Raw | Predicted: normal
+2025-05-21 12:44:00.246585 | Ether / IP / UDP 142.250.200.238:https > 192.168.1.5:51995 / Raw | Predicted: normal
+2025-05-21 12:44:00.314403 | Ether / IP / UDP 142.250.200.238:https > 192.168.1.5:51995 / Raw | Predicted: normal
+2025-05-21 12:44:00.381559 | Ether / IP / UDP 192.168.1.5:51995 > 142.250.200.238:https / Raw | Predicted: normal
+2025-05-21 12:44:00.449435 | Ether / IP / UDP 142.250.200.238:https > 192.168.1.5:51995 / Raw | Predicted: normal
+2025-05-21 12:44:00.515460 | Ether / IP / UDP 192.168.1.5:50210 > 216.58.205.206:https / Raw | Predicted: normal
+2025-05-21 12:44:00.581455 | Ether / IP / UDP 192.168.1.5:50210 > 216.58.205.206:https / Raw | Predicted: normal
+2025-05-21 12:44:00.650086 | Ether / IP / UDP 192.168.1.5:50210 > 216.58.205.206:https / Raw | Predicted: normal
+2025-05-21 12:44:00.726145 | Ether / IP / UDP 142.250.200.238:https > 192.168.1.5:51995 / Raw | Predicted: normal
+2025-05-21 12:44:00.798147 | Ether / IP / UDP 192.168.1.5:51995 > 142.250.200.238:https / Raw | Predicted: normal
+2025-05-21 12:44:00.864292 | Ether / IP / UDP 216.58.205.206:https > 192.168.1.5:50210 / Raw | Predicted: normal
+2025-05-21 12:44:00.930591 | Ether / IP / UDP 216.58.205.206:https > 192.168.1.5:50210 / Raw | Predicted: normal
+2025-05-21 12:44:01.013680 | Ether / IP / UDP 216.58.205.206:https > 192.168.1.5:50210 / Raw | Predicted: normal
+2025-05-21 12:44:01.084836 | Ether / IP / UDP 216.58.205.206:https > 192.168.1.5:50210 / Raw | Predicted: normal
+2025-05-21 12:44:01.147193 | Ether / IP / UDP 216.58.205.206:https > 192.168.1.5:50210 / Raw | Predicted: normal
+2025-05-21 12:44:01.213987 | Ether / IP / UDP 216.58.205.206:https > 192.168.1.5:50210 / Raw | Predicted: normal
+2025-05-21 12:44:01.280676 | Ether / IP / UDP 192.168.1.5:50210 > 216.58.205.206:https / Raw | Predicted: normal
+2025-05-21 12:44:01.347489 | Ether / IP / UDP 192.168.1.5:50210 > 216.58.205.206:https / Raw | Predicted: normal
+2025-05-21 12:44:01.430517 | Ether / IP / UDP 192.168.1.5:50210 > 216.58.205.206:https / Raw | Predicted: normal
+2025-05-21 12:44:01.513341 | Ether / IP / UDP 192.168.1.5:50210 > 216.58.205.206:https / Raw | Predicted: normal
+2025-05-21 12:44:01.579738 | Ether / IP / UDP 192.168.1.5:50210 > 216.58.205.206:https / Raw | Predicted: normal
+2025-05-21 12:44:01.648075 | Ether / IP / UDP 216.58.205.206:https > 192.168.1.5:50210 / Raw | Predicted: normal
+2025-05-21 12:44:01.714168 | Ether / IP / UDP 216.58.205.206:https > 192.168.1.5:50210 / Raw | Predicted: normal
+2025-05-21 12:44:01.779786 | Ether / IP / UDP 216.58.205.206:https > 192.168.1.5:50210 / Raw | Predicted: normal
+2025-05-21 12:44:01.850013 | Ether / IP / UDP 216.58.205.206:https > 192.168.1.5:50210 / Raw | Predicted: normal
+2025-05-21 12:44:01.913414 | Ether / IP / UDP 216.58.205.206:https > 192.168.1.5:50210 / Raw | Predicted: normal
+2025-05-21 12:44:01.997077 | Ether / IP / UDP 192.168.1.5:50210 > 216.58.205.206:https / Raw | Predicted: normal
+2025-05-21 12:44:02.063796 | Ether / IP / UDP 216.58.205.206:https > 192.168.1.5:50210 / Raw | Predicted: normal
+2025-05-21 12:44:02.129799 | Ether / IP / UDP 216.58.205.206:https > 192.168.1.5:50210 / Raw | Predicted: normal
+2025-05-21 12:44:02.219258 | Ether / IP / UDP 192.168.1.5:50210 > 216.58.205.206:https / Raw | Predicted: normal
+2025-05-21 12:44:02.279527 | Ether / IP / UDP 216.58.205.206:https > 192.168.1.5:50210 / Raw | Predicted: normal
+2025-05-21 12:44:02.342173 | Ether / IP / TCP 192.168.1.5:55425 > 52.112.100.62:https PA / Raw | Predicted: normal
+2025-05-21 12:44:02.412686 | Ether / IP / TCP 52.112.100.62:https > 192.168.1.5:55425 PA / Raw | Predicted: normal
+2025-05-21 12:44:02.494874 | Ether / IP / TCP 192.168.1.5:55425 > 52.112.100.62:https A | Predicted: normal
+2025-05-21 12:44:02.562193 | Ether / IPv6 / UDP / DNS Qry b'updates.discord.com.' | Predicted: normal
+2025-05-21 12:44:02.628792 | Ether / IPv6 / UDP / DNS Qry b'updates.discord.com.' | Predicted: normal
+2025-05-21 12:44:02.695852 | Ether / IPv6 / UDP / DNS Ans | Predicted: normal
+2025-05-21 12:44:02.779243 | Ether / IPv6 / UDP / DNS Ans 162.159.138.232 | Predicted: normal
+2025-05-21 12:44:02.846396 | Ether / IP / TCP 192.168.1.5:58402 > 162.159.138.232:https S | Predicted: normal
+2025-05-21 12:44:02.913546 | Ether / IP / TCP 162.159.138.232:https > 192.168.1.5:58402 SA | Predicted: normal
+2025-05-21 12:44:02.993939 | Ether / IP / TCP 192.168.1.5:58402 > 162.159.138.232:https A | Predicted: normal
+2025-05-21 12:44:03.061548 | Ether / IP / TCP 192.168.1.5:58402 > 162.159.138.232:https PA / Raw | Predicted: normal
+2025-05-21 12:44:03.128887 | Ether / IP / TCP 162.159.138.232:https > 192.168.1.5:58402 A / Padding | Predicted: normal
+2025-05-21 12:44:03.195293 | Ether / IP / TCP 162.159.138.232:https > 192.168.1.5:58402 A / Raw | Predicted: normal
+2025-05-21 12:44:03.278475 | Ether / IP / TCP 162.159.138.232:https > 192.168.1.5:58402 PA / Raw | Predicted: normal
+2025-05-21 12:44:03.345219 | Ether / IP / TCP 192.168.1.5:58402 > 162.159.138.232:https A | Predicted: normal
+2025-05-21 12:44:03.412326 | Ether / IP / TCP 192.168.1.5:58402 > 162.159.138.232:https PA / Raw | Predicted: normal
+2025-05-21 12:44:03.493023 | Ether / IP / TCP 162.159.138.232:https > 192.168.1.5:58402 PA / Raw | Predicted: normal
+2025-05-21 12:44:03.560608 | Ether / IP / TCP 192.168.1.5:58402 > 162.159.138.232:https PA / Raw | Predicted: normal
+2025-05-21 12:44:03.629680 | Ether / IP / TCP 162.159.138.232:https > 192.168.1.5:58402 A / Padding | Predicted: normal
+2025-05-21 12:44:03.694889 | Ether / IP / TCP 162.159.138.232:https > 192.168.1.5:58402 PA / Raw | Predicted: normal
+2025-05-21 12:44:03.776474 | Ether / IP / TCP 162.159.138.232:https > 192.168.1.5:58402 PA / Raw | Predicted: normal
+2025-05-21 12:44:03.844491 | Ether / IP / TCP 162.159.138.232:https > 192.168.1.5:58402 PA / Raw | Predicted: normal
+2025-05-21 12:44:03.911888 | Ether / IP / TCP 192.168.1.5:58402 > 162.159.138.232:https A | Predicted: normal
+2025-05-21 12:44:03.990713 | Ether / IP / UDP / DNS Qry b'discordapp.com.' | Predicted: normal
+2025-05-21 12:44:04.044974 | Ether / IP / UDP / DNS Qry b'discordapp.com.' | Predicted: normal
+2025-05-21 12:44:04.129700 | Ether / IP / UDP / DNS Ans 162.159.133.233 | Predicted: normal
+2025-05-21 12:44:04.194008 | Ether / IP / UDP / DNS Ans | Predicted: normal
+2025-05-21 12:44:04.261259 | Ether / IP / UDP 192.168.1.5:64336 > 162.159.133.233:https / Raw | Predicted: normal
+2025-05-21 12:44:04.343761 | Ether / IP / UDP 192.168.1.5:64336 > 162.159.133.233:https / Raw | Predicted: normal
+2025-05-21 12:44:04.409431 | Ether / IP / UDP 192.168.1.5:64336 > 162.159.133.233:https / Raw | Predicted: normal
+2025-05-21 12:44:04.476954 | Ether / IP / UDP 162.159.133.233:https > 192.168.1.5:64336 / Raw | Predicted: normal
+2025-05-21 12:44:04.554033 | Ether / IP / UDP 162.159.133.233:https > 192.168.1.5:64336 / Raw | Predicted: normal
+2025-05-21 12:44:04.626400 | Ether / IP / UDP 192.168.1.5:64336 > 162.159.133.233:https / Raw | Predicted: normal
+2025-05-21 12:44:04.701737 | Ether / IP / UDP 162.159.133.233:https > 192.168.1.5:64336 / Raw | Predicted: normal
+2025-05-21 12:44:04.761100 | Ether / IP / UDP 162.159.133.233:https > 192.168.1.5:64336 / Raw | Predicted: normal
+2025-05-21 12:44:04.835610 | Ether / IP / UDP 162.159.133.233:https > 192.168.1.5:64336 / Raw | Predicted: normal
+2025-05-21 12:44:04.909124 | Ether / IP / UDP 192.168.1.5:64336 > 162.159.133.233:https / Raw | Predicted: normal
+2025-05-21 12:44:04.976919 | Ether / IP / UDP 192.168.1.5:64336 > 162.159.133.233:https / Raw | Predicted: normal
+2025-05-21 12:44:05.043984 | Ether / IP / UDP 162.159.133.233:https > 192.168.1.5:64336 / Raw | Predicted: normal
+2025-05-21 12:44:05.110186 | Ether / IP / UDP 192.168.1.5:64336 > 162.159.133.233:https / Raw | Predicted: normal
+2025-05-21 12:44:05.194119 | Ether / IP / UDP 162.159.133.233:https > 192.168.1.5:64336 / Raw | Predicted: normal
+2025-05-21 12:44:05.277997 | Ether / IP / UDP 162.159.133.233:https > 192.168.1.5:64336 / Raw | Predicted: normal
+2025-05-21 12:44:05.361112 | Ether / IP / UDP 192.168.1.5:64336 > 162.159.133.233:https / Raw | Predicted: normal
+2025-05-21 12:44:05.431154 | Ether / IP / UDP 162.159.133.233:https > 192.168.1.5:64336 / Raw | Predicted: normal
+2025-05-21 12:44:05.524845 | Ether / IP / UDP 162.159.133.233:https > 192.168.1.5:64336 / Raw | Predicted: normal
+2025-05-21 12:44:05.597655 | Ether / IP / UDP 192.168.1.5:64336 > 162.159.133.233:https / Raw | Predicted: normal
+2025-05-21 12:44:05.677869 | Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 7c:70:db:61:a6:a7 | Predicted: normal
+2025-05-21 12:44:05.760576 | Ether / IPv6 / ICMPv6 Neighbor Discovery - Neighbor Advertisement (tgt: fe80::1) | Predicted: normal
+2025-05-21 12:44:05.825931 | Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 9c:69:d1:d4:31:3b | Predicted: normal
+2025-05-21 12:44:05.895000 | Ether / IPv6 / ICMPv6ND_NA / ICMPv6 Neighbor Discovery Option - Destination Link-Layer Address 7c:70:db:61:a6:a7 | Predicted: normal
+2025-05-21 12:44:07.471323 | Ether / IP / TCP 192.168.1.5:58065 > 104.18.29.234:https A / Raw | Predicted: normal
+2025-05-21 12:44:07.540397 | Ether / IP / TCP 104.18.29.234:https > 192.168.1.5:58065 A | Predicted: normal
+2025-05-21 12:44:08.212786 | Ether / IPv6 / UDP / DNS Qry b'mobile.events.data.microsoft.com.' | Predicted: normal
+2025-05-21 12:44:08.290139 | Ether / IPv6 / UDP / DNS Qry b'mobile.events.data.microsoft.com.' | Predicted: normal
+2025-05-21 12:44:08.372275 | Ether / IPv6 / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.' | Predicted: normal
+2025-05-21 12:44:08.457647 | Ether / IPv6 / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.' | Predicted: normal
+2025-05-21 12:44:08.538771 | Ether / IP / TCP 192.168.1.5:58403 > 52.168.117.170:https S | Predicted: normal
+2025-05-21 12:44:08.610128 | Ether / IP / TCP 52.168.117.170:https > 192.168.1.5:58403 SA | Predicted: normal
+2025-05-21 12:44:08.686090 | Ether / IP / TCP 192.168.1.5:58403 > 52.168.117.170:https A | Predicted: normal
+2025-05-21 12:44:08.764141 | Ether / IP / TCP 192.168.1.5:58403 > 52.168.117.170:https PA / Raw | Predicted: normal
+2025-05-21 12:44:08.831735 | Ether / IP / TCP 52.168.117.170:https > 192.168.1.5:58403 PA / Raw | Predicted: normal
+2025-05-21 12:44:08.909737 | Ether / IP / TCP 192.168.1.5:58403 > 52.168.117.170:https PA / Raw | Predicted: normal
+2025-05-21 12:44:08.995126 | Ether / IP / TCP 52.168.117.170:https > 192.168.1.5:58403 A / Raw | Predicted: normal
+2025-05-21 12:44:09.088931 | Ether / IP / TCP 52.168.117.170:https > 192.168.1.5:58403 A / Raw | Predicted: normal
+2025-05-21 12:44:09.173185 | Ether / IP / TCP 52.168.117.170:https > 192.168.1.5:58403 A / Raw | Predicted: normal
+2025-05-21 12:44:09.256182 | Ether / IP / TCP 52.168.117.170:https > 192.168.1.5:58403 PA / Raw | Predicted: normal
+2025-05-21 12:44:09.337531 | Ether / IP / TCP 192.168.1.5:58403 > 52.168.117.170:https A | Predicted: normal
+2025-05-21 12:44:09.420063 | Ether / IP / TCP 192.168.1.5:58403 > 52.168.117.170:https PA / Raw | Predicted: normal
+2025-05-21 12:44:09.490849 | Ether / IP / TCP 52.168.117.170:https > 192.168.1.5:58403 A / Padding | Predicted: normal
+2025-05-21 12:44:09.559779 | Ether / IP / TCP 52.168.117.170:https > 192.168.1.5:58403 PA / Raw | Predicted: normal
+2025-05-21 12:44:09.623249 | Ether / IP / TCP 192.168.1.5:58403 > 52.168.117.170:https A | Predicted: normal
+2025-05-21 12:44:09.720851 | Ether / IP / TCP 52.168.117.170:https > 192.168.1.5:58403 FPA / Raw | Predicted: normal
+2025-05-21 12:44:09.791223 | Ether / IP / TCP 192.168.1.5:58403 > 52.168.117.170:https A | Predicted: normal
+2025-05-21 12:44:09.857012 | Ether / IP / TCP 192.168.1.5:58403 > 52.168.117.170:https PA / Raw | Predicted: normal
+2025-05-21 12:44:09.954321 | Ether / IP / TCP 192.168.1.5:58403 > 52.168.117.170:https FA | Predicted: normal
+2025-05-21 12:44:10.039553 | Ether / IP / TCP 52.168.117.170:https > 192.168.1.5:58403 A / Padding | Predicted: normal
+2025-05-21 12:44:12.716259 | Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.' | Predicted: normal
+2025-05-21 12:44:12.787430 | Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.' | Predicted: normal
+2025-05-21 12:44:12.856977 | Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.' | Predicted: normal
+2025-05-21 12:44:12.937508 | Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.' | Predicted: normal
+2025-05-21 12:44:13.002267 | Ether / IP / TCP 192.168.1.5:58404 > 52.168.117.170:https S | Predicted: normal
+2025-05-21 12:44:13.069169 | Ether / IP / TCP 52.168.117.170:https > 192.168.1.5:58404 SA | Predicted: normal
+2025-05-21 12:44:13.152240 | Ether / IP / TCP 192.168.1.5:58404 > 52.168.117.170:https A | Predicted: normal
+2025-05-21 12:44:13.218848 | Ether / IP / TCP 192.168.1.5:58404 > 52.168.117.170:https PA / Raw | Predicted: normal
+2025-05-21 12:44:13.302315 | Ether / IP / TCP 52.168.117.170:https > 192.168.1.5:58404 A / Padding | Predicted: normal
+2025-05-21 12:44:13.369178 | Ether / IP / TCP 52.168.117.170:https > 192.168.1.5:58404 PA / Raw | Predicted: normal
+2025-05-21 12:44:13.452203 | Ether / IP / TCP 192.168.1.5:58404 > 52.168.117.170:https PA / Raw | Predicted: normal
